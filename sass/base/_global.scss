@@ -1,0 +1,24 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1,h2,h3,p,a {
+  margin: 0;
+  font-family: $main-font;
+}
+
+h1,h2,h3{
+  color: $Very-dark-blue;
+  font-weight: 800;
+}
+
+p{
+  color: $Dark-grayish-blue;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+a{
+  text-decoration: none;
+}
